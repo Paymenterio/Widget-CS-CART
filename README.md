@@ -1,3 +1,8 @@
+\
+![CS-Cart](paymenterio.png)
+\
+\
+![CS-Cart](cscart.png)
 # Paymenterio payment module for CS-Cart e-commerce engine.
 =====================
 
